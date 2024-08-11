@@ -10,7 +10,7 @@ raspimouse:
     light_sensors_hz          : 100.0
     odom_hz                   : 100.0
     switches_hz               : 10.0
-    initial_motor_power       : false
+    initial_motor_power       : true
     odom_frame_id             : "odom"
     odom_child_frame_id       : "base_footprint"
     odom_frame_prefix         : ""
